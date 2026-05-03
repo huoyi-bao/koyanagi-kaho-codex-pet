@@ -1,14 +1,20 @@
-# Rana Codex Pet
+# Codex Pets
 
-Fan-made animated guitarist pet for the Codex desktop app.
+Fan-made animated pets for the Codex desktop app.
 
-## Preview
+## Pets
+
+### Koyanagi Kaho
+
+![Koyanagi Kaho contact sheet](previews/koyanagi-kaho/contact-sheet.png)
+
+### Rana
 
 ![Rana contact sheet](previews/rana/contact-sheet.png)
 
 ## Install
 
-Install manually:
+Install one pet manually:
 
 ```bash
 mkdir -p ~/.codex/pets
@@ -18,24 +24,30 @@ cp -R pets/rana ~/.codex/pets/
 On Windows PowerShell:
 
 ```powershell
-$dest = Join-Path $env:USERPROFILE ".codex\pets\rana"
+$pet = "rana"
+$dest = Join-Path $env:USERPROFILE ".codex\pets\$pet"
 New-Item -ItemType Directory -Force -Path (Split-Path $dest) | Out-Null
 Remove-Item -LiteralPath $dest -Recurse -Force -ErrorAction SilentlyContinue
-Copy-Item -LiteralPath ".\pets\rana" -Destination $dest -Recurse
+Copy-Item -LiteralPath ".\pets\$pet" -Destination $dest -Recurse
 ```
 
-Then restart Codex Desktop or refresh the pet selector, and choose `Rana`.
+Use `$pet = "koyanagi-kaho"` to install Koyanagi Kaho instead.
+
+Then restart Codex Desktop or refresh the pet selector.
 
 ## Files
 
 ```text
-pets/rana/
-  pet.json
-  spritesheet.webp
-previews/rana/
-  contact-sheet.png
-  review.json
-  validation.json
+pets/
+  koyanagi-kaho/
+    pet.json
+    spritesheet.webp
+  rana/
+    pet.json
+    spritesheet.webp
+previews/
+  koyanagi-kaho/
+  rana/
 catalog.json
 scripts/
 ```
@@ -49,5 +61,5 @@ python scripts/validate_catalog.py
 Expected result:
 
 ```text
-catalog ok: 1 pet(s)
+catalog ok: 2 pet(s)
 ```

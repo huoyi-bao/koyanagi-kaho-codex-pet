@@ -1,20 +1,21 @@
-# Syncing Rana
+# Syncing Codex Pets
 
-This repo contains one Codex Desktop custom pet package:
+This repo contains Codex Desktop custom pet packages:
 
 ```text
+pets/koyanagi-kaho/
+  pet.json
+  spritesheet.webp
 pets/rana/
   pet.json
   spritesheet.webp
 ```
 
-Preview and QA assets live here:
+Preview and QA assets live under:
 
 ```text
+previews/koyanagi-kaho/
 previews/rana/
-  contact-sheet.png
-  review.json
-  validation.json
 ```
 
 ## On Another Windows Device
@@ -26,14 +27,17 @@ git clone https://github.com/huoyi-bao/koyanagi-kaho-codex-pet.git
 cd koyanagi-kaho-codex-pet
 ```
 
-Install into Codex Desktop:
+Install Rana into Codex Desktop:
 
 ```powershell
-$dest = Join-Path $env:USERPROFILE ".codex\pets\rana"
+$pet = "rana"
+$dest = Join-Path $env:USERPROFILE ".codex\pets\$pet"
 New-Item -ItemType Directory -Force -Path (Split-Path $dest) | Out-Null
 Remove-Item -LiteralPath $dest -Recurse -Force -ErrorAction SilentlyContinue
-Copy-Item -LiteralPath ".\pets\rana" -Destination $dest -Recurse
+Copy-Item -LiteralPath ".\pets\$pet" -Destination $dest -Recurse
 ```
+
+Use `$pet = "koyanagi-kaho"` to install Koyanagi Kaho instead.
 
 Then restart Codex Desktop, or use Force Reload/Refresh in the pet selector.
 
@@ -46,16 +50,13 @@ python .\scripts\validate_catalog.py
 Expected result:
 
 ```text
-catalog ok: 1 pet(s)
+catalog ok: 2 pet(s)
 ```
 
 ## Notes
 
-Rana was generated with Codex's `hatch-pet` skill from anime character references.
-
-Design choices:
-
-- The base, idle, waiting, waving, jumping, and review rows keep the blue asymmetric outfit close to the reference.
-- The running rows use the earlier guitar-forward version because it has stronger guitar detail and motion readability.
-- The atlas keeps the standard Codex pet contract: `1536x1872`, 8 columns, 9 rows, 192x208 cells.
-- Runtime display scale is not part of the current custom pet manifest, so the shipped package uses the original validated size.
+- Koyanagi Kaho is the original aqua-haired chibi schoolgirl pet.
+- Rana is the reserved silver-haired guitarist pet generated with Codex's `hatch-pet` skill.
+- Rana's running rows intentionally keep the stronger guitar and motion detail even though the outfit drifts darker than the base outfit.
+- Rana's review row had one crouching frame replaced with a standing review frame to make the loop less jarring.
+- Runtime display scale is not part of the current custom pet manifest, so the packages use the original validated sprite sizes.
