@@ -1,16 +1,10 @@
-# Koyanagi Kaho Codex Pet
+# Rana Codex Pet
 
-Fan-made animated pet for the Codex desktop app.
+Fan-made animated guitarist pet for the Codex desktop app.
 
 ## Preview
 
-![Koyanagi Kaho contact sheet](previews/koyanagi-kaho/contact-sheet.png)
-
-| Idle | Waiting | Review | Run |
-| --- | --- | --- | --- |
-| <img src="previews/koyanagi-kaho/gifs/idle.gif" width="160" alt="Koyanagi Kaho idle animation"> | <img src="previews/koyanagi-kaho/gifs/waiting.gif" width="160" alt="Koyanagi Kaho waiting animation"> | <img src="previews/koyanagi-kaho/gifs/review.gif" width="160" alt="Koyanagi Kaho review animation"> | <img src="previews/koyanagi-kaho/gifs/running-right.gif" width="160" alt="Koyanagi Kaho running animation"> |
-
-Full MP4 previews live in `previews/koyanagi-kaho/videos/`.
+![Rana contact sheet](previews/rana/contact-sheet.png)
 
 ## Install
 
@@ -18,30 +12,30 @@ Install manually:
 
 ```bash
 mkdir -p ~/.codex/pets
-cp -R pets/koyanagi-kaho ~/.codex/pets/
+cp -R pets/rana ~/.codex/pets/
 ```
 
 On Windows PowerShell:
 
 ```powershell
-$dest = Join-Path $env:USERPROFILE ".codex\pets\koyanagi-kaho"
+$dest = Join-Path $env:USERPROFILE ".codex\pets\rana"
 New-Item -ItemType Directory -Force -Path (Split-Path $dest) | Out-Null
 Remove-Item -LiteralPath $dest -Recurse -Force -ErrorAction SilentlyContinue
-Copy-Item -LiteralPath ".\pets\koyanagi-kaho" -Destination $dest -Recurse
+Copy-Item -LiteralPath ".\pets\rana" -Destination $dest -Recurse
 ```
 
-Then restart Codex Desktop or refresh the pet selector, and choose `Koyanagi Kaho`.
+Then restart Codex Desktop or refresh the pet selector, and choose `Rana`.
 
 ## Files
 
 ```text
-pets/koyanagi-kaho/
+pets/rana/
   pet.json
   spritesheet.webp
-previews/koyanagi-kaho/
+previews/rana/
   contact-sheet.png
-  gifs/
-  videos/
+  review.json
+  validation.json
 catalog.json
 scripts/
 ```

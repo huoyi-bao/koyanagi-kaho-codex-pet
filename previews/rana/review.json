@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames",
+  "frames_root": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames",
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,93 +15,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\idle\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\idle\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13672,
+          "nontransparent_pixels": 13418,
           "bbox": [
-            42,
+            46,
             5,
-            149,
+            145,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 146
+          "chroma_adjacent_pixels": 103
         },
         {
           "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\idle\\01.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\idle\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13515,
+          "nontransparent_pixels": 13262,
           "bbox": [
-            43,
+            47,
             5,
-            149,
+            145,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 128
+          "chroma_adjacent_pixels": 113
         },
         {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\idle\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\idle\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13519,
+          "nontransparent_pixels": 13364,
           "bbox": [
-            43,
+            47,
             5,
-            149,
+            145,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 109
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\idle\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\idle\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13520,
+          "nontransparent_pixels": 13384,
           "bbox": [
-            43,
+            47,
             5,
-            149,
+            144,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 143
+          "chroma_adjacent_pixels": 144
         },
         {
           "index": 4,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\idle\\04.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\idle\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13528,
+          "nontransparent_pixels": 13255,
           "bbox": [
-            43,
+            47,
             5,
-            149,
+            144,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 152
+          "chroma_adjacent_pixels": 110
         },
         {
           "index": 5,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\idle\\05.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\idle\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13556,
+          "nontransparent_pixels": 13406,
           "bbox": [
-            43,
+            47,
             5,
-            149,
+            144,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 165
+          "chroma_adjacent_pixels": 111
         }
       ]
     },
@@ -116,123 +116,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-right\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-right\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14172,
+          "nontransparent_pixels": 16038,
           "bbox": [
-            37,
+            24,
             5,
-            155,
+            167,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 228
+          "chroma_adjacent_pixels": 249
         },
         {
           "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-right\\01.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-right\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15545,
+          "nontransparent_pixels": 15602,
           "bbox": [
-            33,
+            30,
             5,
-            159,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 317
+          "chroma_adjacent_pixels": 225
         },
         {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-right\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-right\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13653,
+          "nontransparent_pixels": 15375,
           "bbox": [
-            39,
+            25,
             5,
-            152,
+            167,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 289
+          "chroma_adjacent_pixels": 247
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-right\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-right\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14812,
+          "nontransparent_pixels": 15288,
           "bbox": [
-            35,
+            31,
             5,
-            157,
+            160,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 294
+          "chroma_adjacent_pixels": 207
         },
         {
           "index": 4,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-right\\04.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-right\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15074,
+          "nontransparent_pixels": 15016,
           "bbox": [
-            34,
+            30,
             5,
-            158,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 280
+          "chroma_adjacent_pixels": 201
         },
         {
           "index": 5,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-right\\05.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-right\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14201,
+          "nontransparent_pixels": 14802,
           "bbox": [
-            33,
+            30,
             5,
-            158,
+            162,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 326
+          "chroma_adjacent_pixels": 196
         },
         {
           "index": 6,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-right\\06.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-right\\06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14020,
+          "nontransparent_pixels": 13953,
           "bbox": [
-            42,
+            31,
             5,
-            149,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 305
+          "chroma_adjacent_pixels": 189
         },
         {
           "index": 7,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-right\\07.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-right\\07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13910,
+          "nontransparent_pixels": 16235,
           "bbox": [
-            43,
+            26,
             5,
-            149,
+            166,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 239
+          "chroma_adjacent_pixels": 213
         }
       ]
     },
@@ -247,123 +247,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-left\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-left\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14060,
+          "nontransparent_pixels": 15190,
           "bbox": [
-            34,
+            28,
             5,
-            157,
+            163,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 297
+          "chroma_adjacent_pixels": 283
         },
         {
           "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-left\\01.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-left\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13226,
+          "nontransparent_pixels": 14794,
           "bbox": [
-            41,
+            27,
             5,
-            150,
+            165,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 277
+          "chroma_adjacent_pixels": 236
         },
         {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-left\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-left\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13457,
+          "nontransparent_pixels": 14346,
           "bbox": [
-            35,
+            30,
             5,
-            157,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 284
+          "chroma_adjacent_pixels": 245
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-left\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-left\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13408,
+          "nontransparent_pixels": 14227,
           "bbox": [
-            36,
+            31,
             5,
-            156,
+            160,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 262
+          "chroma_adjacent_pixels": 219
         },
         {
           "index": 4,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-left\\04.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-left\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15471,
+          "nontransparent_pixels": 14547,
           "bbox": [
-            36,
+            32,
             5,
-            155,
+            159,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 261
+          "chroma_adjacent_pixels": 238
         },
         {
           "index": 5,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-left\\05.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-left\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15226,
+          "nontransparent_pixels": 14421,
           "bbox": [
-            25,
+            31,
             5,
-            166,
+            160,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 327
+          "chroma_adjacent_pixels": 197
         },
         {
           "index": 6,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-left\\06.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-left\\06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13745,
+          "nontransparent_pixels": 14578,
           "bbox": [
-            37,
+            32,
             5,
-            155,
+            159,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 304
+          "chroma_adjacent_pixels": 229
         },
         {
           "index": 7,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running-left\\07.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running-left\\07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13877,
+          "nontransparent_pixels": 14689,
           "bbox": [
-            36,
+            32,
             5,
-            155,
+            159,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 327
+          "chroma_adjacent_pixels": 225
         }
       ]
     },
@@ -378,63 +378,63 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waving\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waving\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13290,
+          "nontransparent_pixels": 12432,
           "bbox": [
-            45,
+            52,
             5,
-            147,
+            139,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 141
+          "chroma_adjacent_pixels": 106
         },
         {
           "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waving\\01.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waving\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13181,
+          "nontransparent_pixels": 12731,
           "bbox": [
-            41,
+            50,
             5,
-            150,
+            141,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 115
+          "chroma_adjacent_pixels": 136
         },
         {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waving\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waving\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13340,
+          "nontransparent_pixels": 12435,
           "bbox": [
-            37,
+            49,
             5,
-            155,
+            142,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 122
+          "chroma_adjacent_pixels": 71
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waving\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waving\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13158,
+          "nontransparent_pixels": 12407,
           "bbox": [
-            45,
+            52,
             5,
-            146,
+            139,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 113
+          "chroma_adjacent_pixels": 79
         }
       ]
     },
@@ -449,55 +449,55 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\jumping\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\jumping\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20163,
+          "nontransparent_pixels": 16919,
           "bbox": [
-            28,
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17948,
+          "bbox": [
+            27,
             5,
             164,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 292
-        },
-        {
-          "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\jumping\\01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 17291,
-          "bbox": [
-            34,
-            5,
-            157,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 246
+          "chroma_adjacent_pixels": 230
         },
         {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\jumping\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\jumping\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18821,
+          "nontransparent_pixels": 19220,
           "bbox": [
-            22,
+            25,
             5,
-            170,
+            166,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 214
+          "chroma_adjacent_pixels": 302
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\jumping\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\jumping\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14503,
+          "nontransparent_pixels": 15640,
           "bbox": [
             37,
             5,
@@ -505,22 +505,22 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 206
+          "chroma_adjacent_pixels": 180
         },
         {
           "index": 4,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\jumping\\04.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\jumping\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16428,
+          "nontransparent_pixels": 14899,
           "bbox": [
-            38,
+            47,
             5,
-            154,
+            145,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 241
+          "chroma_adjacent_pixels": 167
         }
       ]
     },
@@ -535,115 +535,115 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\failed\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\failed\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14229,
+          "nontransparent_pixels": 13639,
           "bbox": [
             43,
             5,
-            149,
+            148,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 183
+          "chroma_adjacent_pixels": 163
         },
         {
           "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\failed\\01.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\failed\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16416,
+          "nontransparent_pixels": 13749,
           "bbox": [
-            37,
+            44,
             5,
-            155,
+            147,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 166
+          "chroma_adjacent_pixels": 169
         },
         {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\failed\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\failed\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16669,
+          "nontransparent_pixels": 13814,
           "bbox": [
-            36,
+            43,
             5,
-            155,
+            148,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 187
+          "chroma_adjacent_pixels": 153
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\failed\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\failed\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24378,
+          "nontransparent_pixels": 13123,
           "bbox": [
-            20,
+            47,
             5,
-            172,
+            144,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 339
+          "chroma_adjacent_pixels": 217
         },
         {
           "index": 4,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\failed\\04.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\failed\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20025,
+          "nontransparent_pixels": 17437,
           "bbox": [
-            29,
+            31,
             5,
-            163,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 230
+          "chroma_adjacent_pixels": 292
         },
         {
           "index": 5,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\failed\\05.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\failed\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25285,
+          "nontransparent_pixels": 17493,
           "bbox": [
-            13,
+            31,
             5,
-            178,
+            161,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 368
+          "chroma_adjacent_pixels": 251
         },
         {
           "index": 6,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\failed\\06.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\failed\\06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19707,
+          "nontransparent_pixels": 12830,
           "bbox": [
-            29,
+            52,
             5,
-            162,
+            140,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 223
+          "chroma_adjacent_pixels": 174
         },
         {
           "index": 7,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\failed\\07.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\failed\\07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14279,
+          "nontransparent_pixels": 13696,
           "bbox": [
             43,
             5,
@@ -651,7 +651,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 179
+          "chroma_adjacent_pixels": 186
         }
       ]
     },
@@ -666,40 +666,40 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waiting\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waiting\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12774,
+          "nontransparent_pixels": 13346,
           "bbox": [
             47,
             5,
             145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 104
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13311,
+          "bbox": [
+            47,
+            5,
+            144,
             203
           ],
           "edge_pixels": 0,
           "chroma_adjacent_pixels": 125
         },
         {
-          "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waiting\\01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 12778,
-          "bbox": [
-            47,
-            5,
-            145,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 139
-        },
-        {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waiting\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waiting\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12716,
+          "nontransparent_pixels": 13329,
           "bbox": [
             47,
             5,
@@ -707,44 +707,44 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 147
+          "chroma_adjacent_pixels": 83
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waiting\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waiting\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12322,
+          "nontransparent_pixels": 13145,
           "bbox": [
-            50,
+            48,
             5,
-            142,
+            143,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 114
+          "chroma_adjacent_pixels": 113
         },
         {
           "index": 4,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waiting\\04.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waiting\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12567,
+          "nontransparent_pixels": 13181,
           "bbox": [
-            47,
+            48,
             5,
             144,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 121
         },
         {
           "index": 5,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\waiting\\05.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\waiting\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12869,
+          "nontransparent_pixels": 13441,
           "bbox": [
             47,
             5,
@@ -752,7 +752,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 141
+          "chroma_adjacent_pixels": 90
         }
       ]
     },
@@ -767,93 +767,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16824,
+          "nontransparent_pixels": 13043,
           "bbox": [
-            33,
+            43,
             5,
-            159,
+            149,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 170
+          "chroma_adjacent_pixels": 137
         },
         {
           "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running\\01.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16063,
+          "nontransparent_pixels": 12992,
           "bbox": [
-            34,
+            41,
             5,
-            157,
+            150,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 199
+          "chroma_adjacent_pixels": 103
         },
         {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16511,
+          "nontransparent_pixels": 12997,
           "bbox": [
-            36,
+            44,
             5,
-            155,
+            147,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 219
+          "chroma_adjacent_pixels": 108
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15768,
+          "nontransparent_pixels": 13216,
           "bbox": [
-            36,
+            42,
             5,
-            155,
+            150,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 161
+          "chroma_adjacent_pixels": 131
         },
         {
           "index": 4,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running\\04.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16546,
+          "nontransparent_pixels": 12771,
           "bbox": [
-            36,
+            45,
             5,
-            155,
+            147,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 219
+          "chroma_adjacent_pixels": 117
         },
         {
           "index": 5,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\running\\05.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\running\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15655,
+          "nontransparent_pixels": 12755,
           "bbox": [
-            36,
+            44,
             5,
-            156,
+            147,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 184
+          "chroma_adjacent_pixels": 131
         }
       ]
     },
@@ -868,93 +868,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\review\\00.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\review\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13340,
+          "nontransparent_pixels": 11244,
           "bbox": [
-            45,
+            54,
             5,
-            147,
+            137,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 152
+          "chroma_adjacent_pixels": 83
         },
         {
           "index": 1,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\review\\01.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\review\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13440,
+          "nontransparent_pixels": 11945,
           "bbox": [
-            43,
+            44,
             5,
-            148,
+            147,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 147
+          "chroma_adjacent_pixels": 75
         },
         {
           "index": 2,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\review\\02.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\review\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12599,
+          "nontransparent_pixels": 11476,
           "bbox": [
-            45,
+            54,
             5,
-            146,
+            137,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 100
         },
         {
           "index": 3,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\review\\03.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\review\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13213,
+          "nontransparent_pixels": 16548,
           "bbox": [
-            45,
+            35,
             5,
-            147,
+            157,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 136
+          "chroma_adjacent_pixels": 143
         },
         {
           "index": 4,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\review\\04.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\review\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12556,
+          "nontransparent_pixels": 11124,
           "bbox": [
-            47,
+            55,
             5,
-            145,
+            137,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 145
+          "chroma_adjacent_pixels": 135
         },
         {
           "index": 5,
-          "file": "C:\\Users\\75998\\.codex\\hatch-pet-runs\\aqua-ribbon\\frames\\review\\05.png",
+          "file": "C:\\Users\\huoyi\\.codex\\hatch-pet-runs\\silver-guitarist\\frames\\review\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13358,
+          "nontransparent_pixels": 11691,
           "bbox": [
-            45,
+            54,
             5,
-            147,
+            137,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 115
+          "chroma_adjacent_pixels": 103
         }
       ]
     }
