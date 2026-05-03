@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "pets": [
+    {
+      "id": "koyanagi-kaho",
+      "displayName": "Koyanagi Kaho",
+      "description": "A cheerful aqua-haired chibi schoolgirl Codex desktop pet.",
+      "packagePath": "pets/koyanagi-kaho",
+      "manifestPath": "pets/koyanagi-kaho/pet.json",
+      "spritesheetPath": "pets/koyanagi-kaho/spritesheet.webp",
+      "preview": {
+        "contactSheet": "previews/koyanagi-kaho/contact-sheet.png",
+        "gifs": [
+          "previews/koyanagi-kaho/gifs/idle.gif",
+          "previews/koyanagi-kaho/gifs/waiting.gif",
+          "previews/koyanagi-kaho/gifs/review.gif",
+          "previews/koyanagi-kaho/gifs/running-right.gif"
+        ],
+        "videos": [
+          "previews/koyanagi-kaho/videos/idle.mp4",
+          "previews/koyanagi-kaho/videos/running-right.mp4",
+          "previews/koyanagi-kaho/videos/running-left.mp4",
+          "previews/koyanagi-kaho/videos/waving.mp4",
+          "previews/koyanagi-kaho/videos/jumping.mp4",
+          "previews/koyanagi-kaho/videos/failed.mp4",
+          "previews/koyanagi-kaho/videos/waiting.mp4",
+          "previews/koyanagi-kaho/videos/running.mp4",
+          "previews/koyanagi-kaho/videos/review.mp4"
+        ]
+      },
+      "sha256": {
+        "spritesheet": "3d53d123cccf14e5323fef8cab3e9949ffce87d98d6b582ef9b3d080aa596638"
+      },
+      "notes": [
+        "Generated with the hatch-pet skill from chibi schoolgirl character references.",
+        "running-left was generated separately instead of mirrored to preserve the one-sided yellow hair ribbon."
+      ]
+    }
+  ]
+}
